@@ -1,0 +1,12 @@
+C:\Users\zoey\source\repos\salary calculation\salary calculation\bin\Debug\salary calculation.exe.config
+C:\Users\zoey\source\repos\salary calculation\salary calculation\bin\Debug\salary calculation.exe
+C:\Users\zoey\source\repos\salary calculation\salary calculation\bin\Debug\salary calculation.pdb
+C:\Users\zoey\source\repos\salary calculation\salary calculation\bin\Debug\salary calculation.xml
+C:\Users\zoey\source\repos\salary calculation\salary calculation\obj\Debug\salary calculation.vbprojAssemblyReference.cache
+C:\Users\zoey\source\repos\salary calculation\salary calculation\obj\Debug\salary_calculation.Form1.resources
+C:\Users\zoey\source\repos\salary calculation\salary calculation\obj\Debug\salary_calculation.Resources.resources
+C:\Users\zoey\source\repos\salary calculation\salary calculation\obj\Debug\salary calculation.vbproj.GenerateResource.cache
+C:\Users\zoey\source\repos\salary calculation\salary calculation\obj\Debug\salary calculation.vbproj.CoreCompileInputs.cache
+C:\Users\zoey\source\repos\salary calculation\salary calculation\obj\Debug\salary calculation.exe
+C:\Users\zoey\source\repos\salary calculation\salary calculation\obj\Debug\salary calculation.xml
+C:\Users\zoey\source\repos\salary calculation\salary calculation\obj\Debug\salary calculation.pdb
